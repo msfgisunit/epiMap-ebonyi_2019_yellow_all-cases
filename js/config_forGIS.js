@@ -280,16 +280,16 @@
 	                tooltip : "Weekly incidence rate"                
 	            },
 	            combined : {
-	                title   : "Cases",
+	                title   : "All Cases",
 	                bars : {
-	                    legend  : "Bars : New weekly cases",
+	                    legend  : "Bars : New weekly all cases",
 	                    axis    : "New weekly cases",
-	                    tooltip : "new cases"                    
+	                    tooltip : "New all cases"                    
 	                },
 	                line : {
-	                    legend  : "Line : Cumulated cases",
+	                    legend  : "Line : Cumulated all cases",
 	                    axis    : "Cumulated cases",
-	                    tooltip : "cumulated cases"                    
+	                    tooltip : "Cumulated all cases"                    
 	                }                
 	            }
 	        },
